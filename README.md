@@ -1,4 +1,5 @@
 # article_blog
+数据集暂不提供，仅供内部使用
 ## sensitive
 存储了反动词典和暴恐词典
 ## preprocessing
